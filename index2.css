@@ -1,0 +1,24 @@
+body{
+background-color:lightgreen;
+font-family: arial, verdana, sans-serif;
+font-size: 1em;
+
+}
+
+a:link{
+	color: deeppink;
+	text-decoration: none;
+}
+
+a:hover{
+	color: deeppink;
+	text-decoration: underline;
+}
+
+a:visited{
+	color: yellow;
+}
+
+a:active{
+	color:cyan;
+}
